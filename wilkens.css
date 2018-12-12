@@ -1,0 +1,39 @@
+nav {
+    width: 1180px;
+    background-color:black;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    border-right: 2px solid white;
+    padding-right: 5px;
+}
+div.wrapper{
+    width: 1180px;
+    margin: auto;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 30px;
+    width: 560px;
+    float: right;
+}
+td {
+    padding: 15px;
+    border: black solid 1px;
+}
+
+td.green {
+    background-color: green;
+}
+td.blue {
+    background-color: blue;
+}
+p {
+    float: left ;
+    width: 49%;
+    margin-right: 2%;
+    margin-top: 30px;
+}
