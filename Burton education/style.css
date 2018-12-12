@@ -1,0 +1,28 @@
+#wrapper {
+    width: 1180px;
+    margin: auto;
+}
+nav {
+    width: 1180px;
+    margin-bottom: 20px;
+}
+nav a {
+    padding-right: 5px;
+}
+#leftimage {
+    float: left;
+    padding-right: 5px;
+}
+#rightsidesection {
+    float: inherit;
+}
+#rightimage1 {
+    padding-bottom: 4px;
+}
+#rightimage2 {
+    padding-bottom: 4px;
+}
+#rightimage3 {
+    padding: 0px;
+    margin: 0px;
+}
